@@ -9,6 +9,6 @@ public class EasyAfk extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        Bukkit.getLogger().info("Hello, Spigot!");
+        Bukkit.getLogger().info("Hello, spigot!");
     }
 }
